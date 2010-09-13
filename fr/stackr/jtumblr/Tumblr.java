@@ -8,18 +8,6 @@ import org.w3c.dom.*;
 
 
 /**
- * <b>TumbleJ</b> is a Java API for Tumblr. It aims to perform posting and retrieving content. 
- *
- * @author <a href="http://www.daneshzaki.com">Danesh Zaki</a> <p />
- * 
- * Revised on 3 July 2008 <p />
- *
- * Version 1.1 <p /> 
- *
- * This code is released as
- * open-source under the LGPL license. See
- * <a href="http://www.gnu.org/licenses/lgpl.html">http://www.gnu.org/licenses/lgpl.html</a>
- * for license details. This code comes with no warranty or support.
  *
  *
  */

@@ -1,18 +1,7 @@
 package fr.stackr.jtumblr;
 
 /**
- * This class is used to encapsulate the posts read from the tumblog. Presently,
- * only regular text posts are supported.
- * 
- * @author <a href="http://blog.stackr.fr">Romain Bochet</a>
- *         <p />
- * 
- *         This code is released as open-source under the LGPL license. See <a
- *         href
- *         ="http://www.gnu.org/licenses/lgpl.html">http://www.gnu.org/licenses
- *         /lgpl.html</a> for license details. This code comes with no warranty
- *         or support.
- * 
+
  * 
  */
 
